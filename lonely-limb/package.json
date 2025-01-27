@@ -12,7 +12,7 @@
     "@astrojs/mdx": "^4.0.7",
     "@astrojs/react": "^4.2.0",
     "@astrojs/tailwind": "^5.1.5",
-    "@sentry/astro": "^latest",
+    "@sentry/astro": "latest",
     "@spotlightjs/astro": "^latest",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
